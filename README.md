@@ -1,3 +1,3 @@
 # Diagrams
 
-https://github.com/developer-onizuka/Diagrams/blob/main/Auth0.drawio
+https://app.diagrams.net/
