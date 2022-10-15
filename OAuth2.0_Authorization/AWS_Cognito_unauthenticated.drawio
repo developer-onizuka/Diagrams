@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-15T12:24:32.409Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Gl5RDdk6jnN22ewKRXG0" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-15T12:24:54.135Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="EaUQnYaUUs23-TX6XiQk" version="20.4.1" type="github">
   <diagram id="--nqma7Hxtt_wLqLNTel" name="Page-1">
     <mxGraphModel dx="1422" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -116,10 +116,10 @@
         <mxCell id="XSkRe8p8Ryk4nutkjoMU-62" value="Token B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="XSkRe8p8Ryk4nutkjoMU-60" vertex="1">
           <mxGeometry width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XSkRe8p8Ryk4nutkjoMU-63" value="#4 Credential Resp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="XSkRe8p8Ryk4nutkjoMU-63" value="#3 Credential Resp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="469.5" y="318.75" width="105.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XSkRe8p8Ryk4nutkjoMU-64" value="#5 Token Resp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="XSkRe8p8Ryk4nutkjoMU-64" value="#4 Token Resp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="215.5" y="318.75" width="95.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XSkRe8p8Ryk4nutkjoMU-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.622;entryY=0.013;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryPerimeter=0;" parent="1" source="2p3ya99PdbGUZq53EWPI-19" edge="1">
@@ -155,7 +155,7 @@
         <mxCell id="XSkRe8p8Ryk4nutkjoMU-88" value="Token B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="XSkRe8p8Ryk4nutkjoMU-86" vertex="1">
           <mxGeometry width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XSkRe8p8Ryk4nutkjoMU-89" value="#6 Access AWS Resource" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="XSkRe8p8Ryk4nutkjoMU-89" value="#5 Access AWS Resource" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="215.5" y="501.5" width="95.5" height="34.25" as="geometry" />
         </mxCell>
         <mxCell id="XSkRe8p8Ryk4nutkjoMU-53" value="#1 Token Req&lt;br&gt;w/o JWT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;" parent="1" vertex="1">
