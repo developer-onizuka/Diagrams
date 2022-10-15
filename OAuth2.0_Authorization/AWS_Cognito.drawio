@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-15T12:25:47.828Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="aYPNzChBHMoVnPtIoYwV" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-15T12:46:29.251Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="dzpKK2K2pjv_2xU-ra6d" version="20.4.1" type="github">
   <diagram id="--nqma7Hxtt_wLqLNTel" name="Page-1">
     <mxGraphModel dx="1422" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -146,7 +146,7 @@
           <mxGeometry x="217.5" y="211.25" width="85.5" height="28.75" as="geometry" />
         </mxCell>
         <mxCell id="XSkRe8p8Ryk4nutkjoMU-31" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="320" y="290" width="50" height="20" as="geometry" />
+          <mxGeometry x="315" y="290" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2p3ya99PdbGUZq53EWPI-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="XSkRe8p8Ryk4nutkjoMU-31" vertex="1">
           <mxGeometry width="50" height="20" as="geometry" />
@@ -245,6 +245,12 @@
         </mxCell>
         <mxCell id="XSkRe8p8Ryk4nutkjoMU-7" value="AWS STS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4" parent="1" vertex="1">
           <mxGeometry x="557.25" y="405" width="60" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="5kJvitd1m-C3UW1Qc7YP-2" value="(Authorization Endpoint)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="317.01" y="170" width="140" height="23.75" as="geometry" />
+        </mxCell>
+        <mxCell id="5kJvitd1m-C3UW1Qc7YP-3" value="(Token Endpoint)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="364" y="280" width="98.25" height="23.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
