@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-03T14:25:07.720Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="hEQbiUcwRpI2BgADDJ9O" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-04T00:09:54.559Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="e3IRB07YPmZqovekrjmD" version="20.8.16" type="github">
   <diagram id="--nqma7Hxtt_wLqLNTel" name="Page-1">
-    <mxGraphModel dx="1422" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -104,8 +104,8 @@
         <mxCell id="XSkRe8p8Ryk4nutkjoMU-54" value="Internal DB of users" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="584.5" y="193.75" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XSkRe8p8Ryk4nutkjoMU-58" value="#2 GetFederationToken Req" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="453.5" y="280" width="186.5" height="20" as="geometry" />
+        <mxCell id="XSkRe8p8Ryk4nutkjoMU-58" value="#2 AssumeRole Req" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="453.5" y="280" width="146.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XSkRe8p8Ryk4nutkjoMU-60" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="404.5" y="310" width="50" height="20" as="geometry" />
@@ -185,7 +185,7 @@
         <mxCell id="XG39Ln9Y9YC_D8ULXL-3-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#00CC00;strokeColor=#82b366;" parent="XG39Ln9Y9YC_D8ULXL-3-4" vertex="1">
           <mxGeometry x="6.5" y="24.5" width="9.75" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="XG39Ln9Y9YC_D8ULXL-3-9" value="- User B (Unauthenticated)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="XG39Ln9Y9YC_D8ULXL-3-9" value="- Role B (Unauthenticated)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="428" y="448.5" width="145.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XG39Ln9Y9YC_D8ULXL-3-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
