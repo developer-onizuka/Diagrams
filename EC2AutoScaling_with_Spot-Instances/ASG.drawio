@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-02-25T06:49:18.380Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="mkipa2p0Ln23IAsWeMnJ" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-25T07:05:19.390Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="TzyTOV5Y217lPtXhcaJB" version="20.8.16" type="github">
   <diagram name="ページ1" id="sC4nIIa1NE7DnZuSuOCW">
     <mxGraphModel dx="1434" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nTLwuemBcKeWRpqzfgbb-3" value="Launch Template" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nTLwuemBcKeWRpqzfgbb-3" value="Launch template" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="390" width="140" height="150" as="geometry" />
         </mxCell>
         <mxCell id="nTLwuemBcKeWRpqzfgbb-4" value="AMI" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="nTLwuemBcKeWRpqzfgbb-3">
@@ -22,11 +22,32 @@
         <mxCell id="nTLwuemBcKeWRpqzfgbb-10" value="EBS" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="nTLwuemBcKeWRpqzfgbb-3">
           <mxGeometry y="110" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nTLwuemBcKeWRpqzfgbb-8" value="User Data,&amp;nbsp; etc" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="nTLwuemBcKeWRpqzfgbb-3">
+        <mxCell id="nTLwuemBcKeWRpqzfgbb-8" value="User data,&amp;nbsp; etc" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="nTLwuemBcKeWRpqzfgbb-3">
           <mxGeometry y="130" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nTLwuemBcKeWRpqzfgbb-12" value="Auto Scaling" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.auto_scaling;" vertex="1" parent="1">
-          <mxGeometry x="230" y="300" width="60" height="60" as="geometry" />
+          <mxGeometry x="290" y="240" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nTLwuemBcKeWRpqzfgbb-14" value="&lt;b&gt;&lt;u&gt;Step 1&lt;/u&gt;&lt;/b&gt;&lt;br&gt;1. Define Auto Scaling group name&lt;br style=&quot;border-color: var(--border-color); color: rgb(216, 102, 19);&quot;&gt;2. Create and Select Launch template" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="330" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nTLwuemBcKeWRpqzfgbb-16" value="&lt;b&gt;&lt;u&gt;Step 2&lt;/u&gt;&lt;/b&gt;&lt;br&gt;3. Select the same VPC that the LB lives in." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="640" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nTLwuemBcKeWRpqzfgbb-18" value="VPC" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#248814;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="100" width="360" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="nTLwuemBcKeWRpqzfgbb-13" value="" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.groupCenter;grIcon=mxgraph.aws4.group_auto_scaling_group;grStroke=1;strokeColor=#D86613;fillColor=none;verticalAlign=top;align=center;fontColor=#D86613;dashed=1;spacingTop=25;" vertex="1" parent="nTLwuemBcKeWRpqzfgbb-18">
+          <mxGeometry x="40" y="160" width="270" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="nTLwuemBcKeWRpqzfgbb-19" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.elastic_load_balancing;" vertex="1" parent="nTLwuemBcKeWRpqzfgbb-18">
+          <mxGeometry x="40" y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nTLwuemBcKeWRpqzfgbb-21" value="ELB" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nTLwuemBcKeWRpqzfgbb-18">
+          <mxGeometry x="40" y="110" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nTLwuemBcKeWRpqzfgbb-20" value="&lt;b&gt;&lt;u&gt;Step 2&lt;/u&gt;&lt;/b&gt;&lt;br&gt;3. Select the same VPC that the LB lives in and choose subnet for EC2 instances." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nTLwuemBcKeWRpqzfgbb-18">
+          <mxGeometry x="50" y="320" width="250" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
