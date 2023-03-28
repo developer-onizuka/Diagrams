@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T23:05:08.930Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="lIBzUEl_Cl19oSFXAymY" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T23:11:54.255Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="u8_21QEpmdNZgPJaT62M" version="21.1.1" type="github">
   <diagram name="ページ1" id="0P4fpCA2ElZijz7k6KJM">
     <mxGraphModel dx="1674" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DHMVBfel-WTy40f1HSud-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="550" width="200" height="240" as="geometry" />
-        </mxCell>
         <mxCell id="aOrG64JXtYgB1la9WTQS-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="160" width="330" height="240" as="geometry" />
         </mxCell>
@@ -117,36 +114,6 @@
         </mxCell>
         <mxCell id="exh6LPKvsfDpUVNiEua6-3" value="Staging Area (Data Lake Storage Gen2)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="340" y="173.65" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DHMVBfel-WTy40f1HSud-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="550" width="330" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="DHMVBfel-WTy40f1HSud-2" value="Data Sink" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="550" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="DHMVBfel-WTy40f1HSud-3" value="&lt;b&gt;Synapse Analytics&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="555" y="565.15" width="117.5" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="DHMVBfel-WTy40f1HSud-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Data_Warehouses.svg;" vertex="1" parent="1">
-          <mxGeometry x="650" y="604.4399999999999" width="54" height="54.85" as="geometry" />
-        </mxCell>
-        <mxCell id="DHMVBfel-WTy40f1HSud-5" value="SQL Data &lt;br&gt;warehouse" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="704" y="615.15" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DHMVBfel-WTy40f1HSud-14" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/iot/Event_Hubs.svg;" vertex="1" parent="1">
-          <mxGeometry x="85" y="615" width="67" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DHMVBfel-WTy40f1HSud-17" value="Event Hubs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="78.5" y="680" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DHMVBfel-WTy40f1HSud-19" value="Data Source" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="550" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="DHMVBfel-WTy40f1HSud-20" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/iot/Stream_Analytics_Jobs.svg;" vertex="1" parent="1">
-          <mxGeometry x="322" y="615" width="68" height="57.99999999999999" as="geometry" />
-        </mxCell>
-        <mxCell id="DHMVBfel-WTy40f1HSud-21" value="Stream Job Analytics" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="319.75" y="680" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
