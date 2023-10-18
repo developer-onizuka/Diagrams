@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T09:34:39.933Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="sBV1psdhMfU7Ur8E2TOH" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T09:37:34.000Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="dfOuwVDu2w2bIHcR83_3" version="22.0.4" type="github">
   <diagram name="ページ1" id="H58rL_RPLQzw_dxwgkd_">
     <mxGraphModel dx="1114" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,6 +42,48 @@
             <mxPoint x="510" y="130" as="sourcePoint" />
             <mxPoint x="611" y="220" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="abDDMRDbAKEIzRcadTcj-10" value="Azure Disks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="260" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="abDDMRDbAKEIzRcadTcj-11" value="Azure Blobs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="300" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="abDDMRDbAKEIzRcadTcj-12" value="Azure Files" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="340" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="abDDMRDbAKEIzRcadTcj-13" value="Azure Queues" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="380" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="abDDMRDbAKEIzRcadTcj-14" value="Azure Tables" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="420" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="abDDMRDbAKEIzRcadTcj-17" value="Archive" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="340" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="abDDMRDbAKEIzRcadTcj-18" value="Cool" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="300" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="abDDMRDbAKEIzRcadTcj-19" value="Hot" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="260" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="abDDMRDbAKEIzRcadTcj-21" value="Geo-Zone Redundant" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="380" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="abDDMRDbAKEIzRcadTcj-22" value="Geo Redundant" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="340" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="abDDMRDbAKEIzRcadTcj-23" value="Zone Redundant" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="300" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="abDDMRDbAKEIzRcadTcj-24" value="Locally Redundant" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="260" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="abDDMRDbAKEIzRcadTcj-28" value="Premium" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="300" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="abDDMRDbAKEIzRcadTcj-29" value="Standard" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="260" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
