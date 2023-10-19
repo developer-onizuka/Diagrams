@@ -1,9 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2023-10-19T00:43:42.518Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="pyjmi_fxe4e2PPkDpvSF" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-19T01:04:22.790Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="ugcpwhytLePZjNd11TCt" version="22.0.4" type="github">
   <diagram name="ページ1" id="eB1vkKRo0PV2TkXVy8oV">
     <mxGraphModel dx="1114" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pyAqmbuhBOsUC40ohO0A-1" value="" style="shape=mxgraph.rack.oracle.sun_zfs_storage_7320;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="250" y="300" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyAqmbuhBOsUC40ohO0A-2" value="" style="shape=mxgraph.rack.oracle.sun_zfs_storage_7320;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="380" y="300" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyAqmbuhBOsUC40ohO0A-3" value="" style="shape=mxgraph.rack.oracle.sun_zfs_storage_7320;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="250" y="370" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyAqmbuhBOsUC40ohO0A-4" value="" style="shape=mxgraph.rack.oracle.sun_zfs_storage_7320;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="380" y="370" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pyAqmbuhBOsUC40ohO0A-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="280" width="280" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="pyAqmbuhBOsUC40ohO0A-6" value="Azure Storage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="450" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pyAqmbuhBOsUC40ohO0A-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts.svg;" vertex="1" parent="1">
+          <mxGeometry x="165" y="180" width="65" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="pyAqmbuhBOsUC40ohO0A-8" value="Storage Account A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="150" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pyAqmbuhBOsUC40ohO0A-9" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="230" as="sourcePoint" />
+            <mxPoint x="270" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyAqmbuhBOsUC40ohO0A-10" value="Storage Account B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="150" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pyAqmbuhBOsUC40ohO0A-11" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts.svg;" vertex="1" parent="1">
+          <mxGeometry x="525" y="180" width="65" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="pyAqmbuhBOsUC40ohO0A-12" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="645.5" y="218" as="sourcePoint" />
+            <mxPoint x="480" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="480" />
+              <mxPoint x="370" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyAqmbuhBOsUC40ohO0A-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="150" as="sourcePoint" />
+            <mxPoint x="610" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyAqmbuhBOsUC40ohO0A-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="140" as="sourcePoint" />
+            <mxPoint x="150" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyAqmbuhBOsUC40ohO0A-26" value="User or Services" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="70" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pyAqmbuhBOsUC40ohO0A-27" value="User or Services" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="60" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
