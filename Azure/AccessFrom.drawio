@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T00:06:39.289Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="fA5WNxFpvQY9YBlSCo_7" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-08T00:08:15.149Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="cb4OfgT76C4MX9BxEyOR" version="22.0.8" type="github">
   <diagram name="ページ1" id="kpZ7DMK9d4Nb93xADbqp">
     <mxGraphModel dx="1115" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -162,14 +162,14 @@
         <mxCell id="YANtefDm1YoBHeZ4voHw-1" value="Just because you manage your cloud resources doesn&#39;t mean you can let just anyone use them.&lt;br&gt;自分でクラウド リソースを管理しているからといって、誰にでもそのリソースを使用させるわけにもいかない。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="65" width="650" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P7cCLRBWz1zL1I71YhH9-1" value="Encryption is a means of increasing the confidentiality of the data itself, but access control is a means of restricting access to data in the first place.&lt;br&gt;暗号化はデータ自体の機密性を高める手段ですが、アクセス制御はそもそもデータへのアクセスを制限する手段です。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="820" width="640" height="50" as="geometry" />
+        <mxCell id="P7cCLRBWz1zL1I71YhH9-1" value="Encryption is a means of increasing the confidentiality of the data itself, but access control is a means of restricting access to data in the first place.&lt;br&gt;暗号化はデータ自体の機密性を高める手段ですが、アクセス制御はそもそもデータへのアクセスを制限する手段です。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="820" width="640" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="P7cCLRBWz1zL1I71YhH9-2" value="&lt;b&gt;3. What is the difference between Encryption and Access Control ?&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="P7cCLRBWz1zL1I71YhH9-2" value="&lt;b&gt;3. What is the difference between Encryption and Access Control ?&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="795" width="400" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="P7cCLRBWz1zL1I71YhH9-5" value="&lt;b&gt;1. How to access to the Cloud resources&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="40" width="320" height="25" as="geometry" />
+        <mxCell id="P7cCLRBWz1zL1I71YhH9-5" value="&lt;b&gt;1. How to access to the Cloud resources&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="40" width="320" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
