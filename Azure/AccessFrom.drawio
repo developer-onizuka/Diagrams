@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T00:11:59.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="LBwS2loK6U4st05vMAFR" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-08T00:15:59.787Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="4O54m7k1z3GE5zeppMy9" version="22.0.8" type="github">
   <diagram name="ページ1" id="kpZ7DMK9d4Nb93xADbqp">
     <mxGraphModel dx="1115" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,7 +100,7 @@
             <mxRectangle width="170" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HIDQDaZI9X2vUrS7jQ3k-32" value="&amp;nbsp;- User&#39;s Access Key in Azure Storage Account&lt;br&gt;&amp;nbsp;-&amp;nbsp;SAS in Azure Storage Account&lt;br&gt;&amp;nbsp;- Access Token" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="HIDQDaZI9X2vUrS7jQ3k-29" vertex="1">
+        <mxCell id="HIDQDaZI9X2vUrS7jQ3k-32" value="&amp;nbsp;- User&#39;s Access Key in Azure Storage Account&lt;br&gt;&amp;nbsp;-&amp;nbsp;SAS in Azure Storage Account&lt;br&gt;&amp;nbsp;- Access Token (OAuth2.0)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="HIDQDaZI9X2vUrS7jQ3k-29" vertex="1">
           <mxGeometry x="320" width="260" height="60" as="geometry">
             <mxRectangle width="260" height="60" as="alternateBounds" />
           </mxGeometry>
@@ -146,7 +146,7 @@
             <mxRectangle width="170" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HIDQDaZI9X2vUrS7jQ3k-42" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;- Access Token&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="HIDQDaZI9X2vUrS7jQ3k-39" vertex="1">
+        <mxCell id="HIDQDaZI9X2vUrS7jQ3k-42" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;- Access Token (OAuth2.0)&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="HIDQDaZI9X2vUrS7jQ3k-39" vertex="1">
           <mxGeometry x="320" width="260" height="60" as="geometry">
             <mxRectangle width="260" height="60" as="alternateBounds" />
           </mxGeometry>
