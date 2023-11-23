@@ -1,9 +1,105 @@
-<mxfile host="app.diagrams.net" modified="2023-11-23T07:53:16.429Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.3" etag="a9Z1j2YPrPyFfj-1SHhs" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-23T08:17:49.791Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="-xh3NPVsvppWFObQPViL" version="22.1.3" type="github">
   <diagram name="ページ1" id="OlR5Y7HB_RdvPVWd1noR">
-    <mxGraphModel>
+    <mxGraphModel dx="1114" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="s9PLDcKHr8BaEy3s3ef4-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="570" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="s9PLDcKHr8BaEy3s3ef4-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;" vertex="1" parent="1">
+          <mxGeometry x="205" y="310" width="70" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="s9PLDcKHr8BaEy3s3ef4-2" value="Azure AD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="210" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s9PLDcKHr8BaEy3s3ef4-3" value="Tenant id : xxx...x" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="320" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s9PLDcKHr8BaEy3s3ef4-4" value="Register an Application" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="313.47" y="380" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s9PLDcKHr8BaEy3s3ef4-5" value="Service Principal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="465" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s9PLDcKHr8BaEy3s3ef4-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/App_Registrations.svg;" vertex="1" parent="1">
+          <mxGeometry x="280" y="380" width="33.47" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="s9PLDcKHr8BaEy3s3ef4-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Verifiable_Credentials.svg;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="460" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s9PLDcKHr8BaEy3s3ef4-8" value="Application id : xxx...x&lt;br&gt;Client id : xxx...x" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="410" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s9PLDcKHr8BaEy3s3ef4-9" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts.svg;" vertex="1" parent="1">
+          <mxGeometry x="630" y="600" width="43.75" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="s9PLDcKHr8BaEy3s3ef4-10" value="Storage Account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="580" y="635" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s9PLDcKHr8BaEy3s3ef4-11" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/azure_stack/User_Subscriptions.svg;" vertex="1" parent="1">
+          <mxGeometry x="550" y="530" width="37.09" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="s9PLDcKHr8BaEy3s3ef4-13" value="User&#39;s Subscription" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="597.09" y="540" width="122.91" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s9PLDcKHr8BaEy3s3ef4-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="380" as="sourcePoint" />
+            <mxPoint x="270" y="396" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="396" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9PLDcKHr8BaEy3s3ef4-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="420" as="sourcePoint" />
+            <mxPoint x="330" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9PLDcKHr8BaEy3s3ef4-26" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Code.svg;" vertex="1" parent="1">
+          <mxGeometry x="154.61" y="587.5" width="55.39" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="s9PLDcKHr8BaEy3s3ef4-28" value="User Program" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="115" y="557.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s9PLDcKHr8BaEy3s3ef4-29" value="Tenant id : xxx...x&lt;br&gt;Application id : xxx...x&lt;br&gt;Client id : xxx...x" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="125" y="640" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s9PLDcKHr8BaEy3s3ef4-30" value="Role : Storage Account Contributor" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="490" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s9PLDcKHr8BaEy3s3ef4-33" value="&lt;span&gt;1. Request Access Token&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="77.5" y="500" width="192.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s9PLDcKHr8BaEy3s3ef4-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="460" as="sourcePoint" />
+            <mxPoint x="239.5" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9PLDcKHr8BaEy3s3ef4-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="580" as="sourcePoint" />
+            <mxPoint x="230.5" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9PLDcKHr8BaEy3s3ef4-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="607.5" as="sourcePoint" />
+            <mxPoint x="540" y="608" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9PLDcKHr8BaEy3s3ef4-37" value="&lt;span&gt;3. Access the Cloud Resources&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="297.22" y="578" width="192.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s9PLDcKHr8BaEy3s3ef4-39" value="&lt;span&gt;2. Get Access Token&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="243" y="530" width="192.5" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
