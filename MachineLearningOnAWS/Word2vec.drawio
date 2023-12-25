@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T01:42:02.913Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="WOeK5ynRAQ0wVLWlJDKG" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T01:47:08.813Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="8Lh9liu9Zknj2X_4NyQL" version="22.1.11" type="github">
   <diagram name="ページ1" id="TI5WilhIg9VXwRt2O1O1">
     <mxGraphModel dx="1354" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,7 +91,7 @@
         <mxCell id="UsJRSeE4n7gA2zllpiF6-4" value="From Wikipedia etc" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="80" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UsJRSeE4n7gA2zllpiF6-5" value="Your inputs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UsJRSeE4n7gA2zllpiF6-5" value="From Wikipedia etc" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="80" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UsJRSeE4n7gA2zllpiF6-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
