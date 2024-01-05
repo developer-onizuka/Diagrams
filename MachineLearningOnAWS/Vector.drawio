@@ -1,20 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T06:45:40.264Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="WzBeCrJsT9O_UR1x8LSc" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-05T06:56:55.614Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="d07YKSZpyBAy6LrppLQV" version="22.1.16" type="github">
   <diagram name="ページ1" id="8-KSTW8XwnM1iL-2TTt-">
     <mxGraphModel dx="1354" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lap5nU4ZI23rlfs0sqlt-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="200" width="40" height="80" as="geometry" />
+        <mxCell id="lap5nU4ZI23rlfs0sqlt-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lap5nU4ZI23rlfs0sqlt-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="280" width="40" height="80" as="geometry" />
+        <mxCell id="lap5nU4ZI23rlfs0sqlt-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="160" y="360" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lap5nU4ZI23rlfs0sqlt-4" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="210" width="60" height="30" as="geometry" />
+        <mxCell id="lap5nU4ZI23rlfs0sqlt-4" value="&lt;b&gt;N&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="290" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lap5nU4ZI23rlfs0sqlt-7" value="S" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="320" width="60" height="30" as="geometry" />
+          <mxGeometry x="150" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lap5nU4ZI23rlfs0sqlt-15" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#FF0000;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="201" y="240" as="sourcePoint" />
+            <mxPoint x="222" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lap5nU4ZI23rlfs0sqlt-17" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#FF0000;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="186" y="220.38" as="sourcePoint" />
+            <mxPoint x="201" y="186.38" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lap5nU4ZI23rlfs0sqlt-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://3.bp.blogspot.com/-8YetE9SnMGE/Wc8f4VngjUI/AAAAAAABHI0/UhnriN66HAgou3Y_MFCQVkIq-pUq8awAACLcBGAs/s450/royal_king_gyokuza.png;" vertex="1" parent="1">
+          <mxGeometry x="100" y="60" width="91" height="127.57" as="geometry" />
+        </mxCell>
+        <mxCell id="lap5nU4ZI23rlfs0sqlt-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1.bp.blogspot.com/-usN-iZZsmqw/WaOeP1vtugI/AAAAAAABGLQ/V-aNgqm9DIUvdXHb1yy5Up-PD-O1jtOGgCLcBGAs/s400/royal_queen.png;" vertex="1" parent="1">
+          <mxGeometry x="230" y="163.62" width="97" height="126.38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
