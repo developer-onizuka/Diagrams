@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T00:09:26.823Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="a9b0TE5CeaxzUrKegUP_" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T00:10:44.172Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="fx6Mtcd7RE2tHSJGEqJ8" version="22.1.18" type="github">
   <diagram id="--nqma7Hxtt_wLqLNTel" name="Page-1">
     <mxGraphModel dx="1354" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,9 +66,6 @@
         </mxCell>
         <mxCell id="2p3ya99PdbGUZq53EWPI-37" value="#6 Access to the Resource&lt;br&gt;w/ Token1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="429.01" y="451" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2p3ya99PdbGUZq53EWPI-42" value="Tenant A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="740" y="150" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2p3ya99PdbGUZq53EWPI-55" value="#7 Response from the resource in the AWS Account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="419.51" y="496" width="179.01" height="30" as="geometry" />
@@ -152,7 +149,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2p3ya99PdbGUZq53EWPI-104" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Azure Instance Metadata Service&lt;br&gt;(OAuth2.0 Client Credentials Flow)&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="2p3ya99PdbGUZq53EWPI-104" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;AWS Instance Metadata Service&lt;br&gt;(OAuth2.0 Client Credentials Flow)&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="600" width="350" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rZW8x_b_ALL_j7njvFHM-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
