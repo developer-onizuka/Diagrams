@@ -1,15 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T00:31:08.606Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Su8NltDi1LE_Sb54JzrG" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T00:40:49.104Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="busb5MwqaMt1LmlNApD6" version="22.1.18" type="github">
   <diagram id="--nqma7Hxtt_wLqLNTel" name="Page-1">
     <mxGraphModel dx="1354" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2p3ya99PdbGUZq53EWPI-104" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Single Sign On between &lt;br&gt;Housekeeping and Laundry service&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="600" width="324.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7Hku4VnpBYhlYyxRDQoS-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Single Sign On between &lt;br&gt;Housekeeping and Laundry service&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="600" width="324.5" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="xnxxghSEEJ19CdkDyZbs-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="150" width="360" height="430" as="geometry" />
         </mxCell>
@@ -273,6 +267,42 @@
               <mxPoint x="420" y="275" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xnxxghSEEJ19CdkDyZbs-64" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;laundry service in dormitory&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="600" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xnxxghSEEJ19CdkDyZbs-65" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1.bp.blogspot.com/-bAOIfmOoIvI/VY4WmqzWeVI/AAAAAAAAusA/wpJ8Jc1VgZ0/s400/job_kanrinin.png;" vertex="1" parent="1">
+          <mxGeometry x="294.5" y="205" width="127.88" height="111.25" as="geometry" />
+        </mxCell>
+        <mxCell id="xnxxghSEEJ19CdkDyZbs-66" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://3.bp.blogspot.com/-N5-m3lUqI3s/Urlmh_XEuFI/AAAAAAAAcG8/52MByZBegbw/s400/coin_laundry.png;" vertex="1" parent="1">
+          <mxGeometry x="609.99" y="414.9" width="180" height="160.2" as="geometry" />
+        </mxCell>
+        <mxCell id="xnxxghSEEJ19CdkDyZbs-67" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://3.bp.blogspot.com/-RVJKP2Uo4dc/Wp94HD7Y8sI/AAAAAAABKq0/R9aeQdDvQagyJB35mHG_LXIkZq_twBZSwCLcBGAs/s400/kouji_maintenance.png;" vertex="1" parent="1">
+          <mxGeometry x="538.74" y="306.62" width="116.76" height="116.76" as="geometry" />
+        </mxCell>
+        <mxCell id="xnxxghSEEJ19CdkDyZbs-68" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://2.bp.blogspot.com/-4g1YNkXOp7M/VozfLNjbVzI/AAAAAAAA2hg/Q8TpEWeODhw/s400/kaisya_uketsuke_woman.png;" vertex="1" parent="1">
+          <mxGeometry x="689.25" y="202.29999999999998" width="126" height="137.7" as="geometry" />
+        </mxCell>
+        <mxCell id="xnxxghSEEJ19CdkDyZbs-69" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://4.bp.blogspot.com/-Ife4UyJMcKk/XAY5_dw8j0I/AAAAAAABQgg/zWFTiubCd18-XCgoiZ0l2nno0NaPSfjuACLcBGAs/s400/money_coin_case.png;" vertex="1" parent="1">
+          <mxGeometry x="458.73" y="231.14000000000001" width="80.01" height="80.01" as="geometry" />
+        </mxCell>
+        <mxCell id="xnxxghSEEJ19CdkDyZbs-70" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://4.bp.blogspot.com/-dTlkBldkLKk/Ws2wFOTXc4I/AAAAAAABLaY/hvoaK6JB_ToaMJbpRB8s90E2zDXltDaDACLcBGAs/s400/smartphone_neru_schoolboy.png;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="290.5" y="394.81" width="142.51" height="101.19" as="geometry" />
+        </mxCell>
+        <mxCell id="xnxxghSEEJ19CdkDyZbs-71" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://3.bp.blogspot.com/-r49EiuJfyuM/XBRfDu-gOCI/AAAAAAABQ2A/vWaPXTCcLeAGYS3wU4fI8fUJ4dwWEul8ACLcBGAs/s500/job_kaji_daikou_man.png;" vertex="1" parent="1">
+          <mxGeometry x="105" y="448" width="165" height="136.95" as="geometry" />
+        </mxCell>
+        <mxCell id="xnxxghSEEJ19CdkDyZbs-72" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://4.bp.blogspot.com/-Ife4UyJMcKk/XAY5_dw8j0I/AAAAAAABQgg/zWFTiubCd18-XCgoiZ0l2nno0NaPSfjuACLcBGAs/s400/money_coin_case.png;" vertex="1" parent="1">
+          <mxGeometry x="275" y="489.99" width="80.01" height="80.01" as="geometry" />
+        </mxCell>
+        <mxCell id="xnxxghSEEJ19CdkDyZbs-73" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://4.bp.blogspot.com/-GqNabXK98EU/W8hD_ZTDjbI/AAAAAAABPhQ/_tyvovd17H0UUsrmoODHJ_UTaQsqtC0EQCLcBGAs/s400/sentaku_kago.png;" vertex="1" parent="1">
+          <mxGeometry x="190" y="496" width="85" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="xnxxghSEEJ19CdkDyZbs-74" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://3.bp.blogspot.com/-r49EiuJfyuM/XBRfDu-gOCI/AAAAAAABQ2A/vWaPXTCcLeAGYS3wU4fI8fUJ4dwWEul8ACLcBGAs/s500/job_kaji_daikou_man.png;" vertex="1" parent="1">
+          <mxGeometry x="85" y="231.14000000000001" width="165" height="136.95" as="geometry" />
+        </mxCell>
+        <mxCell id="xnxxghSEEJ19CdkDyZbs-75" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://2.bp.blogspot.com/-JuPqjrzjihk/Vw8i-V2cLHI/AAAAAAAA5v4/P79c0h5HFt4Z4HTmfvY5fPgsufkimIECQCLcB/s400/building_school_gakuseiryou.png;" vertex="1" parent="1">
+          <mxGeometry x="355.01" y="109.44" width="83.76" height="90.56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
