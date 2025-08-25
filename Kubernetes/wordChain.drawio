@@ -189,7 +189,7 @@
         <mxCell id="OWCBpXFuUo10xZG_xdIS-56" value="Validation Process" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" vertex="1" parent="1">
           <mxGeometry x="343" y="314" width="120" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="OWCBpXFuUo10xZG_xdIS-57" value="Resource" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" vertex="1" parent="1">
+        <mxCell id="OWCBpXFuUo10xZG_xdIS-57" value="LLM Proess" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" vertex="1" parent="1">
           <mxGeometry x="50" y="39" width="103" height="31" as="geometry" />
         </mxCell>
       </root>
